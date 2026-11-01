@@ -45,7 +45,7 @@ and M4A. Every change shown before it is made, written safely, undone for a year
 
 <table>
 <tr>
-<td width="240"><a href="https://github.com/gsa700/flexpad"><img src="https://raw.githubusercontent.com/gsa700/flexpad/main/docs/screenshots/console.png" width="240" alt="FlexPad"></a></td>
+<td width="240"><a href="https://github.com/gsa700/flexpad"><img src="https://raw.githubusercontent.com/gsa700/flexpad/main/docs/screenshots/main.png" width="240" alt="FlexPad: a grid of command buttons and a row of band buttons"></a></td>
 <td>
 
 **[FlexPad](https://github.com/gsa700/flexpad)** · Programmable command buttons for a FlexRadio

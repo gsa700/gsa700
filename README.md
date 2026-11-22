@@ -1,5 +1,25 @@
-Free software I write for my own music library and my ham radio station, shared in case it is
-useful to you too. Everything here runs on Linux and Windows, and most of it on a Mac as well.
+Free software I write for my own desktop, my music library and my ham radio station, shared in
+case it is useful to you too. The music and shack tools run on Linux and Windows, most of them on
+a Mac as well; Vergence is a desktop of its own, for Void Linux and FreeBSD.
+
+## Desktop
+
+<table>
+<tr>
+<td width="300"><a href="https://github.com/gsa700/vergence"><img src="https://raw.githubusercontent.com/gsa700/vergence/main/docs/screenshots/desktop.jpg" width="300" alt="Vergence: Settings and FileView over the Dusk wallpaper, with the dock below"></a></td>
+<td>
+
+### [Vergence](https://github.com/gsa700/vergence)
+A desktop written in Rust from the display server up: its own server, protocol, toolkit and
+apps, inspired by NeXTSTEP. Every screen drawn at its own scale, so text is sharp on any monitor
+and each window keeps its place for each monitor setup; FileView, Edit, Reader, Terminal,
+Settings and more; its own login screen; and apps an AI agent can use by name, with your
+permission. Void Linux first, FreeBSD second.
+[Version 0.1.0](https://github.com/gsa700/vergence/releases/tag/v0.1.0)
+
+</td>
+</tr>
+</table>
 
 ## Music
 

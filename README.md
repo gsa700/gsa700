@@ -6,7 +6,7 @@ a Mac as well; Vergence is a desktop of its own, for Void Linux and FreeBSD.
 
 <table>
 <tr>
-<td width="300"><a href="https://github.com/gsa700/vergence"><img src="https://raw.githubusercontent.com/gsa700/vergence/main/docs/screenshots/desktop.jpg" width="300" alt="Vergence: Settings and FileView over the Dusk wallpaper, with the dock below"></a></td>
+<td width="300"><a href="https://github.com/gsa700/vergence"><img src="https://raw.githubusercontent.com/gsa700/vergence/main/docs/screenshots/overview.jpg" width="300" alt="Vergence's overview: every window at a glance over the Dusk wallpaper"></a></td>
 <td>
 
 ### [Vergence](https://github.com/gsa700/vergence)

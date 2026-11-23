@@ -14,7 +14,7 @@ A desktop written in Rust from the display server up: its own server, protocol, 
 apps, inspired by NeXTSTEP. Every screen drawn at its own scale, so text is sharp on any monitor
 and each window keeps its place for each monitor setup; FileView, Edit, Reader, Terminal,
 Settings and more; its own login screen; and apps an AI agent can use by name, with your
-permission. Void Linux first, FreeBSD second.
+permission. Developed for Void Linux and FreeBSD.
 [Version 0.1.0](https://github.com/gsa700/vergence/releases/tag/v0.1.0)
 
 </td>
